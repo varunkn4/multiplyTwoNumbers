@@ -1,0 +1,22 @@
+{
+  "name": "multiplytwonumbers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/varunkn4/multiplyTwoNumbers.git"
+  },
+  "keywords": [
+    "multiply numbers"
+  ],
+  "author": "Varun Nair",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/varunkn4/multiplyTwoNumbers/issues"
+  },
+  "homepage": "https://github.com/varunkn4/multiplyTwoNumbers#readme"
+}
